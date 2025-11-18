@@ -1,8 +1,1 @@
-*.tmp
-*.log
-bin/
-obj/
-.vscode/
-.idea/
-*.class
-*.jar
+Лабораторная работа №1 по мдк 02.01 
